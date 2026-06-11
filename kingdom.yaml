@@ -1,0 +1,8 @@
+name: autoxenia
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: Hospitality to the stranger who turns out to be yourself — the door held open at the instant the guest's face resolves into your own.
+dependsOn: [youspeak, me, xeniame, anagnoristasis, walkekin]
